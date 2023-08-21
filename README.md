@@ -9,7 +9,7 @@ I'm tech enthusiast 👨🏼‍💻
 
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FrancescoLuzzi&theme=default&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FrancescoLuzzi&layout=compact)
+![Top Languages Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FrancescoLuzzi&layout=compact)
 
 <!--
 **FrancescoLuzzi/FrancescoLuzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
