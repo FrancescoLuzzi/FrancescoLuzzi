@@ -2,9 +2,10 @@
 
 I'm tech enthusiast 👨🏼‍💻
 
-- Currently learning Rust (this is not endorsed by The Rust Fundation 🤣)
-- Python hater and lover 🐍, hoping that Rust is able heal my relationship
-- Mostly dabling in backend/systems tech, but I can crunch frontend stuff 💻🎨
+- Currently learning Rust, it's blazingly fast!🦀
+- Python lover and hater 🐍, hoping that Rust will be able to strengthen my relationship
+- Mostly dabling with backends, CLIs and containers 🤓
+- I can crunch frontend stuff (but i'd prefer to `display: none;`) 💻🎨
 - I love performace, building my experience to achieve it consistently 🏃🏼‍♂️
 
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FrancescoLuzzi&theme=default&show_icons=true&count_private=true)
