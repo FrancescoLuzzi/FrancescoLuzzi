@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm tech enthusiast 👨🏼‍💻
-
-- Currently learning Rust🦀
-- Python lover and hater 🐍, hoping that Rust will be able to strengthen my relationship
+- Tech enthusiast 🔬
+- Currently learning Rust 🦀
+- Python ang Go lover and hater 👨🏼‍💻
 - Mostly dabling with backends, CLIs and containers 🤓
-- I can crunch frontend stuff (but i'd prefer to `display: none;`) 💻🎨
+- I can crunch frontend stuff, but i'd prefer to `display: none;` 💻🎨
+- Some day I'll use my arduinos for an embedded project 🤣
 - I love performace, building my experience to achieve it consistently 🏃🏼‍♂️
 
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FrancescoLuzzi&theme=default&show_icons=true&count_private=true)
