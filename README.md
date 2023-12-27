@@ -2,7 +2,7 @@
 
 I'm tech enthusiast 👨🏼‍💻
 
-- Currently learning Rust, it's blazingly fast!🦀
+- Currently learning Rust🦀
 - Python lover and hater 🐍, hoping that Rust will be able to strengthen my relationship
 - Mostly dabling with backends, CLIs and containers 🤓
 - I can crunch frontend stuff (but i'd prefer to `display: none;`) 💻🎨
