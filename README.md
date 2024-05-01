@@ -5,8 +5,7 @@
 - Python and Go lover & hater 👨🏼‍💻
 - Mostly dabling with backends, CLIs and containers 🤓
 - I can crunch frontend stuff, but i'd prefer to `display: none;` 💻🎨
-- Some day I'll use my arduinos for an embedded project 🤣
-- I love performace, building my experience to achieve it consistently 🏃🏼‍♂️
+- Some day I'll use my dusty arduinos for an embedded project 🤣
 
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FrancescoLuzzi&theme=default&show_icons=true&count_private=true)
 
