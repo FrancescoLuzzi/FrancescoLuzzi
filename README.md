@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - Tech enthusiast 🔬
-- Currently learning Rust 🦀
-- Python and Go lover & hater 👨🏼‍💻
+- I like learning stuff and solve problems 👨🏼‍💻
 - Mostly dabling with backends, CLIs and containers 🤓
 - I can crunch frontend stuff, but i'd prefer to `display: none;` 💻🎨
 - Some day I'll use my dusty arduinos for an embedded project 🤣
