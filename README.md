@@ -5,10 +5,7 @@
 - Mostly dabling with backends, CLIs and containers 🤓
 - I can crunch frontend stuff, but i'd prefer to `display: none;` 💻🎨
 - Some day I'll use my dusty arduinos for an embedded project 🤣
-
-![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FrancescoLuzzi&theme=default&show_icons=true&count_private=true)
-
-![Top Languages Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FrancescoLuzzi&layout=compact)
+- 🔭 I’m currently working on building my own split keyboard using RP2350 and rust 🦀
 
 <!--
 **FrancescoLuzzi/FrancescoLuzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
