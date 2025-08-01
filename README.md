@@ -5,7 +5,7 @@
 - Mostly dabling with backends, CLIs and containers 🤓
 - I can crunch frontend stuff, but i'd prefer to `display: none;` 💻🎨
 - Some day I'll use my dusty arduinos for an embedded project 🤣
-- 🔭 I’m currently working on building my own split keyboard using RP2350 and rust 🦀
+- 🔭 I’m currently studying rust, go and vue
 
 <!--
 **FrancescoLuzzi/FrancescoLuzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
